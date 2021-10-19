@@ -1,0 +1,26 @@
+compiler:-
+
+when we compile the java programe the java compiler cnverts the source code into byte code .
+
+simple progrme:-
+
+class simple{
+   public static void main(string args[]{
+   system.out.println("hello coders");
+}
+}
+
+compile:
+javac simple.java
+
+execute:
+java simple
+
+output:
+hello coders
+
+
+interpreter:-
+
+interpreter convert the byte code into machine code.java interpreter cnverts or translate the byte code 
+into the machine understandable format, after the machine code interacts with the operating system. 
